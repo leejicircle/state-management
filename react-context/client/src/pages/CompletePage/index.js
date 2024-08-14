@@ -2,7 +2,7 @@ import React from 'react'
 
 const CompletePage = () => {
   return (
-    <div>CompletePage</div>
+    <div>CompletePage1</div>
   )
 }
 
